@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakharpratap97
+- 👋 Hi, I’m Prakhar Pratap Singh
 - 👀 I’m interested in Front end web developing 
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
