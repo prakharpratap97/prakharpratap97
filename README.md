@@ -12,12 +12,8 @@ I'm a front-end web developer and a computer science engineer.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prakharpratap97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharpratap97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=prakharpratap97&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=prakharpratap97&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>
